@@ -1,0 +1,20 @@
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons';
+
+body {
+  display: flex;
+}
+
+.container-fluid {
+  flex: 1;
+  padding: 20px;
+}
+
+.bg-light {
+  width: 250px;
+}
+
+.navbar-nav .nav-item .dropdown-toggle img {
+  margin-right: 8px;
+  vertical-align: middle;
+}
